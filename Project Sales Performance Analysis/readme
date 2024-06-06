@@ -13,4 +13,4 @@ To answer these questions I followed ETL pipeline practices:
 1. I extracted the csv data.
 2. I transformed the data to relevant format getting rid of NaNs, changing object types and creating data visuals.
 3. I loaded data back into seperate csv file to answer question 1.
-I included a summary report and insights on how to improve data
+I included a summary report and insights on how to improve sales.
