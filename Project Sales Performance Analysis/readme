@@ -1,1 +1,16 @@
+Was tasked with the following project:
+Business Requirements:
+Objective: Analyze sales data to provide insights into the performance of different products, regions, and sales representatives.
 
+Key Questions to Answer:
+What are the total sales and the number of units sold for each product?
+Which products are the top performers and which are underperforming?
+How do sales vary across different regions?
+Are there any noticeable trends or seasonality in the sales data?
+Provide recommendations for improving sales based on your analysis.
+
+To answer these questions I followed ETL pipeline practices:
+1. I extracted the csv data.
+2. I transformed the data to relevant format getting rid of NaNs, changing object types and creating data visuals.
+3. I loaded data back into seperate csv file to answer question 1.
+I included a summary report and insights on how to improve data
