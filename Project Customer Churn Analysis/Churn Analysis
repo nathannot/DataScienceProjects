@@ -1,1 +1,7 @@
-
+Used logistic regression to analysis Churn Rates for customers.
+Provided actionable insights to descrease churn rate.
+Method:
+1. Transform data into appropriate format for logistic regression
+2. Performed Logistic Regression
+3. Put all Odd % in table format and graphs to visualise patterns
+4. Wrote report to showcase findings and provide actionable insights 
