@@ -1,1 +1,6 @@
-
+I completed a job simulation on Forage for JP Morgan
+One of the projects was to predict natural gas prices and to look for any seasonality trends.
+Also to create an interactive feature that allows user to find predicted price on any date.
+I completed the code in python and then used tableau to create the interactive feature. 
+You can view it here:
+https://public.tableau.com/app/profile/nathan.notaras/viz/ProjectPredictingNatrualGasPrices/Dashboard1?publish=yes 
