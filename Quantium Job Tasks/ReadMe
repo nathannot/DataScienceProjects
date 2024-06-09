@@ -1,1 +1,10 @@
+Collection of Tasks completed for Quantium Job Simulation.
+Task 1: 
+This repository contains the code and analysis for a category review focused on customer segments and chip purchasing behavior. The analysis includes the following steps:
 
+Data Loading and Checks: Data files were loaded into pandas DataFrames and checked for consistency and accuracy.
+Feature Engineering: Pack size and brand names were derived from product descriptions.
+Metrics of Interest: Key metrics such as total spend, average spend per transaction, frequency of purchases, preferred pack size, and brand preference were defined and analyzed.
+Segment Analysis: Customers were segmented based on purchasing behavior, and spend and behavior for each segment were analyzed to draw insights.
+Strategic Recommendations: Based on the findings, clear and commercially viable recommendations were formulated for the Category Manager, Julia.
+For detailed analysis and code, please refer to the Jupyter Notebook provided in this repository.
