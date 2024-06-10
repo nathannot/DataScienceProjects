@@ -8,3 +8,10 @@ Metrics of Interest: Key metrics such as total spend, average spend per transact
 Segment Analysis: Customers were segmented based on purchasing behavior, and spend and behavior for each segment were analyzed to draw insights.
 Strategic Recommendations: Based on the findings, clear and commercially viable recommendations were formulated for the Category Manager, Julia.
 For detailed analysis and code, please refer to the Jupyter Notebook provided in this repository.
+
+Task 2: Selecting Control Stores for Trial Evaluation
+Objective:
+Identify suitable control stores that have similar performance metrics to the trial stores before the trial period started. 
+These control stores will serve as a baseline to compare against the trial stores to evaluate the trial’s impact on sales.
+
+Task 3: Presentation Summarising finds from Task 1 and 2
