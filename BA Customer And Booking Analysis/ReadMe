@@ -1,1 +1,8 @@
-
+British Airlines Job Tasks:
+Task 1:
+Use web scraping to get 1000 customer reviews from skyscraper review site then use NLP techqniues such as 
+sentiment analysis to analysis how well BA is performing.
+Task 2:
+Build a predictive model using Random Forest Regression to see which factors are important in customers
+completing a booking.
+Each task has a 1 page summary used to present to manager for them to discuss with client.
