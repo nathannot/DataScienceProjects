@@ -1,1 +1,20 @@
+Google Advanced Data Analytics Capstone Project - Predicting Employee Turnover at Salifort Motors
+Methodology:
+Import Data: Data from Salifort Motors' employee surveys, encompassing variables like job title, department,
+number of projects, and average monthly hours, was imported for analysis.
 
+Clean Data: The dataset underwent rigorous cleaning to handle missing values, outliers, and ensure data integrity for accurate analysis.
+
+Visualize Data: Exploratory data analysis (EDA) techniques were employed to visualize relationships and patterns.
+
+Feature Engineering: Key features influencing turnover were identified and engineered to enhance predictive modeling capabilities.
+
+Build Logistic Regression Model: Developed a logistic regression model to predict employee turnover probabilities based on engineered features.
+
+Build Random Forest Regression Model: Constructed a random forest regression model to capture complex relationships and improve prediction accuracy.
+
+Summarize Findings and Report: Findings were summarized in a comprehensive report outlining model performance, key turnover predictors, and actionable 
+recommendations for Salifort Motors' retention strategies.
+
+This project demonstrates proficiency in data preprocessing, exploratory analysis, feature engineering, and applying both logistic regression and random 
+forest models to address real-world business challenges effectively.
