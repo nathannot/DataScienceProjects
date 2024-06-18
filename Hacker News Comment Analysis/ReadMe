@@ -1,1 +1,7 @@
-
+This simple project was to analyse the Hacker News Post,
+dataset found here: https://www.kaggle.com/datasets/hacker-news/hacker-news-posts
+The aim was to determine:
+1. If there was a difference on average the number of comments that had Show HN and Ask HN.
+2. If there were more comments posted at different times of day.
+Analysis was done in python and a final summary one pager was made for stakeholders to view answers in a
+concise and simple manner.
