@@ -1,1 +1,11 @@
+On codeacademy I completed the Biodiversity in National Parks analysis.
+I was given 2 data sets on different information on species classed into category, park, observation, species name and conservation status.
+There were no assignment details, just an opened ended project.
+I had to come up with my own questions to answer, which I did by analysing the column names and brainstorming different relationships that would
+be useful in biodiversity analysis such as popular categories, parks, most endangered species...
 
+When it came to do conservation status analysis I encountered another problem where majority of the endangered species list had NaN values. I first
+set them to Unknown for the basic EDA then used bootstrapping methods to create a full dataset for analysis.
+
+This was a fun project to see what insights I could gather. I concluded by building a Random Forest Classifier model to predict conservation status,
+which was 97% accurate. Any feedback on the project would be appreciated. 
