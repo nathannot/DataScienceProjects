@@ -1,1 +1,14 @@
+Nous Data Analytics Virtual Experience was offered on Propsale:
+https://au.prosple.com/virtual-experience/51268
 
+It involved getting data from ABS on student teacher ratios in Australian States/Territories
+
+Task was to find:
+How has the student to teacher ratio in Queensland’s government-run high schools compared 
+over time with other schools in the state and those in NSW and Victoria?
+
+Analysis was conducted in python and findings presented in PowerPoint.
+Was a simple task as the question only asked for general insights.
+If I wanted to break it into further analysis I could extract data on teacher and student numbers by year
+for each Affiliation category and compare. Also compare by primary vs secondary. 
+This folder just contains the task that was asked by Nous in this Virtual Experience
