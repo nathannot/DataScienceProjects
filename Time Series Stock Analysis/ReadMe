@@ -1,1 +1,9 @@
+Performed Time Series Analysis for AAPL, MFST, GOOG and AMZN for period of 2013-2018.
+Used python to analyse:
+1. Closing price history
+2. Daily change %
+3. Moving Averages
+4. Correlation between closing prices
 
+Findings summarised in pdf report. The report shares preliminary findings for price history
+of these stocks during 2013-2018.
