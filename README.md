@@ -4,7 +4,7 @@ Collection of my data science projects
 
 ## Projects
 
-- Accenture Job Tasks
+- [Accenture Job Tasks](https://github.com/nathannot/DataScienceProjects/tree/main/Accenture%20Job%20Tasks)
 - BA Customer And Booking Analysis
 - Biodiversity Project
 - Cognizant Tasks
