@@ -4,7 +4,7 @@ Collection of my data science projects
 
 ## Projects
 
-- Accenture%20Job%20Tasks
+- Accenture Job Tasks
 - BA Customer And Booking Analysis
 - Biodiversity Project
 - Cognizant Tasks
