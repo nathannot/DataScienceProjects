@@ -1,1 +1,11 @@
-
+For the first Distinction Task for Sit741 one of the tasks was to provide an example
+with references from real world applications demonstrating that linear regression models
+are not suitable and that Generalised Additive Models (GAM) might be a better choice.  
+I decided to answer this question by conducting my own analysis on a real world dataset
+to predict if a person has diabetes. 
+The report summarises the results, which in essence show GAM models are more suitable than
+linear models in certain circumstances.  
+In the python code I also conducted extra analysis (not part of the report as it wasn't a part
+of the question) comparing GAM predictive model to Random Forest Model.
+Both the GAM and Random Forest model were 97% accurate, however, the GAM model performed
+marignally better (you can read the python file to see which metrics I used).
