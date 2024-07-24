@@ -1,1 +1,35 @@
+This distinction task for Sit 720 Machine Learning involved building 3 supervised learning models and
+then 3 ensemble models (one being voting classifier). 
+It involved hypertuning each model and comparing which method was better and why. The task questions
+have been provided so you can see what the task entailed:
 
+1.What is the mechanism used by the Voting Classifier to aggregate predictions from
+multiple base models and their differences? Explain with suitable example. If
+predictions conflict among the base models, what strategies can be employed to
+resolve the conflicts and make more reliable final predictions in the Voting Classifier?
+2. Can Support Vector Machine (SVM) effectively perform multiclass classification? If
+so, explain the approach and techniques for successful implementation. If not, clarify
+the limitations or challenges that restrict SVM's suitability for multiclass classification
+tasks.
+3. Analyse the importance of the features for predicting “target''” using two different
+approaches. Explain the similarity/difference between outcomes.
+4. Create three supervised machine learning (ML) models except any ensemble
+approach for predicting “target''.
+a. Report performance score using a suitable metric. Is it possible that the
+presented result is an overfitted one? Justify.
+b. Justify different design decisions for each ML model used to answer this
+question.
+c. Have you optimised any hyper-parameters for each ML model? What are
+they? Why have you done that? Explain.
+d. Finally, make a recommendation based on the reported results and justify it.
+5. Build three ensemble models including voting classifier for predicting “target”.
+a. When do you want to use ensemble models over other ML models? Explain
+based on the models that you have used in Q4 and Q5.
+b. What are the similarities or differences between among used ensemble
+models in Q5?
+c. Is there any preferable scenario for using any specific model among the set of
+ensemble models? Explain based on obtained outcomes.
+d. Write a report comparing performances of models built in question 4 and 5.
+Report the best method based on model complexity and performance.
+e. Is it possible to build ensemble model using ML classifiers other than decision
+tree? If yes, then explain with an example
