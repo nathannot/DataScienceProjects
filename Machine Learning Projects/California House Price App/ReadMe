@@ -1,1 +1,16 @@
+This is basic script that builds an interactive app to predictive house prices in California
+based on the  California Housing dataset available from Luís Torgo's (University of Porto). 
+Luís Torgo obtained it from the StatLib repository (which is closed now). 
+
+The py file is the app script. The jupyter file contains the full data science process used to
+build the app. The steps involved:
+1. data wrangling (cleaning exploring data)
+2. Feature engineering (building appropriate features for model)
+3. Pipeline to perform all wrangling and featuring engineering in one step
+4. Model building (I tested 10 models to find the best models)
+5. Cross Validation 
+6. Hyperparameter tuning
+7. Model Selection
+
+Then with the model selected I built the basic interactive app script.
 
