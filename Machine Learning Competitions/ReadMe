@@ -1,1 +1,10 @@
+Collection of all Machine Learning Competition Notebooks
 
+Titantic Competition 78% 
+https://www.kaggle.com/competitions/titanic/overview
+To run this code you will need to download the train and test csv from site and 
+rename to train_titanic.csv, test_titanic.csv
+
+Note: For beginners the scoreboard is very misleading, since you can look up names of
+Titanic survivors people can easily 1.0 score which goes against competition. Top score is
+probably around 82%, that's where the first real cluster begins.
