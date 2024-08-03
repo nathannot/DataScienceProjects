@@ -1,4 +1,4 @@
-This is a simple comment spam detection add that classifies a message as spam or not spam.
+This is a simple comment spam detection app that classifies a message as spam or not spam.
 I trained the most on 4 sets of youtube comment files achieving 95% accuracy.
 I then tested it on unseen data where I had the classifications and it was 93% accurate.
 
