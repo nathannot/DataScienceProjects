@@ -1,1 +1,8 @@
+This is a simple comment spam detection add that classifies a message as spam or not spam.
+I trained the most on 4 sets of youtube comment files achieving 95% accuracy.
+I then tested it on unseen data where I had the classifications and it was 93% accurate.
+
+It works for emails or any comment. Just copy and paste into the app and it will simply
+classify. To run code as it, make sure to download the youtube-spam-collection-v1 folder with 
+contents as is in the same directory as app file.
 
