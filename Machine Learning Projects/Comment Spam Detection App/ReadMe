@@ -6,3 +6,5 @@ It works for emails or any comment. Just copy and paste into the app and it will
 classify. To run code as it, make sure to download the youtube-spam-collection-v1 folder with 
 contents as is in the same directory as app file.
 
+I also attached the jupyter notebook with the full code of how I built the app and the jupyter
+notebook with just the code to run the app.
