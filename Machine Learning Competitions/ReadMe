@@ -13,3 +13,8 @@ House Prices - Advanced Regression Techniques Competition 0.13355 error
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
 To run this code you will need to download the train and test csv from site and 
 rename to train_house.csv, test_house.csv
+
+Natural Language Processing with Disaster Tweets 80% accuracy 
+https://www.kaggle.com/competitions/nlp-getting-started
+To run this code you will need to download the train and test csv from site and 
+rename to train_tweet.csv, test_tweet.csv
