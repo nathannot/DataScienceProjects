@@ -18,3 +18,10 @@ Natural Language Processing with Disaster Tweets 80% accuracy
 https://www.kaggle.com/competitions/nlp-getting-started
 To run this code you will need to download the train and test csv from site and 
 rename to train_tweet.csv, test_tweet.csv
+
+Spaceship Titanic 80.4% accuracy
+https://www.kaggle.com/competitions/spaceship-titanic
+To run this code you will need to download the train and test csv from site and 
+rename to train_spaceship.csv, test_spaceship.csv
+Note I only uploaded my code for this project, so if you want to use it, it's an exercise
+to understand the feature engineering I used plus model selection, training and cross-validation.
