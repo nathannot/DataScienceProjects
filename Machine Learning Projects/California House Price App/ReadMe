@@ -4,6 +4,8 @@ This is basic script that builds an interactive app to predictive house prices i
 based on the  California Housing dataset available from Luís Torgo's (University of Porto). 
 Luís Torgo obtained it from the StatLib repository (which is closed now). 
 
+I updated prediction by factor of 2.5 to take in account inflation from 1990 to 2024.
+
 The py file is the app script. The jupyter file contains the full data science process used to
 build the app. The steps involved:
 1. data wrangling (cleaning exploring data)
