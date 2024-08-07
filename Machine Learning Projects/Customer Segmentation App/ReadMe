@@ -1,1 +1,6 @@
+Customer Segmentation App https://customer-segmentation-ebc48b28da9c.herokuapp.com/
 
+Basic app that uses KMeans to find optimal number of clusters based on silhouette score.
+You can upload the csv into app (smaller <10000) work fast. It then will provide a table
+summary of the optimal clusters and the info for each cluster. I then used PCA so you
+can visualise the clusters in 2D to get an idea of the cluster groupings.
