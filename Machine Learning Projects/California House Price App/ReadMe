@@ -1,3 +1,5 @@
+California Price Prediction App https://cal-price-predict-51dab0ef2deb.herokuapp.com/
+
 This is basic script that builds an interactive app to predictive house prices in California
 based on the  California Housing dataset available from Luís Torgo's (University of Porto). 
 Luís Torgo obtained it from the StatLib repository (which is closed now). 
