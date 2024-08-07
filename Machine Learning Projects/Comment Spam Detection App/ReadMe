@@ -1,3 +1,5 @@
+Comment Spam Detection App: https://spam-detector-3d1f407a4db4.herokuapp.com/
+
 This is a simple comment spam detection app that classifies a message as spam or not spam.
 I trained the most on 4 sets of youtube comment files achieving 95% accuracy.
 I then tested it on unseen data where I had the classifications and it was 93% accurate.
@@ -9,4 +11,3 @@ contents as is in the same directory as app file.
 I also attached the jupyter notebook with the full code of how I built the app and the jupyter
 notebook with just the code to run the app.
 
-View app here (for now): https://spam-detector-3d1f407a4db4.herokuapp.com/
