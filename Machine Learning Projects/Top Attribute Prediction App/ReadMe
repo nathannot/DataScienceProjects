@@ -1,1 +1,5 @@
+Top Attribute Prediction App https://top-attributes-03164c16b048.herokuapp.com/
 
+Upload csv, type in class column to predict top attributes for. Also can type in ID column to
+remove for proper analysis. The app returns top 10 attributes for the class using Random Forest
+Classifier, plus a graph to visualise results. You can download the table to a csv to save results.
