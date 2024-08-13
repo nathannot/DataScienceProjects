@@ -1,0 +1,6 @@
+Streamlit
+Pandas 
+NumPy 
+Statsmodels
+Matplotlib
+Seaborn
