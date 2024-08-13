@@ -1,5 +1,0 @@
-Streamlit == 1.30.0
-Pandas == 2.1.4
-NumPy == 1.26.4
-Seaborn == 0.12.2
-Statsmodels == 0.14.0
