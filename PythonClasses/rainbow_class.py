@@ -1,7 +1,7 @@
 from scipy import stats
 import numpy as np
 
-class Rainbow():
+class RainbowOptionPrice():
     def __init__(self, S1, S2, k, r, s1, s2, T, p):
         self.S1 = S1
         self.S2 = S2
